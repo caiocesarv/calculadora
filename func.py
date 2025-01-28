@@ -12,3 +12,4 @@ def div (a,b):
         return a/b
     else:
         return "Erro: Divisão por zero não é permitido"
+    
